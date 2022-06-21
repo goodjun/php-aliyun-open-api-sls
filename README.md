@@ -8,6 +8,9 @@ The SLS SDK for Aliyun OpenAPI
 
 The SLS SDK for Aliyun OpenAPI
 
+# Authorship
+
+This started as a fork from https://github.com/AliyunOpenAPI/php-aliyun-open-api-sls
 
 ## Install
 
@@ -128,17 +131,11 @@ If you discover any security related issues, please email lokielse@gmail.com ins
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/lokielse/aliyun-open-api-sls.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/goodjun/aliyun-open-api-sls.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/lokielse/aliyun-open-api-sls/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/lokielse/aliyun-open-api-sls.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/lokielse/aliyun-open-api-sls.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/lokielse/aliyun-open-api-sls.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/goodjun/aliyun-open-api-sls.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/lokielse/aliyun-open-api-sls
-[link-travis]: https://travis-ci.org/lokielse/aliyun-open-api-sls
-[link-scrutinizer]: https://scrutinizer-ci.com/g/lokielse/aliyun-open-api-sls/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/lokielse/aliyun-open-api-sls
-[link-downloads]: https://packagist.org/packages/lokielse/aliyun-open-api-sls
-[link-author]: https://github.com/lokielse
+[link-packagist]: https://packagist.org/packages/goodjun/aliyun-open-api-sls
+[link-downloads]: https://packagist.org/packages/goodjun/aliyun-open-api-sls
+[link-author]: https://github.com/goodjun
 [link-contributors]: ../../contributors
