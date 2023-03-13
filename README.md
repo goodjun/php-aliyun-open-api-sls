@@ -17,7 +17,7 @@ This started as a fork from https://github.com/AliyunOpenAPI/php-aliyun-open-api
 Via Composer
 
 ``` bash
-$ composer require lokielse/aliyun-open-api-sls
+$ composer require goodjun/aliyun-open-api-sls
 ```
 
 ## Usage
